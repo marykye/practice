@@ -1,0 +1,20 @@
+h1 {
+	color: red;
+	border: 5px purple solid;
+}
+
+li {
+	color: purple;
+}
+
+h4 {
+	background: orange;
+	color: green;
+}
+
+body {
+	/*background: url(https://w-dog.ru/wallpapers/15/15/474102076931141.jpg);*/
+	background-repeat: pink;
+}
+
+/*border: width, color, style*/
